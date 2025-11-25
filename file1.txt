@@ -1,0 +1,4 @@
+Java is a programming language.
+Java is used for many applications.
+Programming in Java is fun.
+Java Java Java.
